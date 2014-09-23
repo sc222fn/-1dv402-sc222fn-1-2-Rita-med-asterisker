@@ -1,0 +1,6 @@
+c:\users\sc222fn\documents\visual studio 2013\Projects\Rita\bin\Debug\Rita.exe.config
+c:\users\sc222fn\documents\visual studio 2013\Projects\Rita\bin\Debug\Rita.exe
+c:\users\sc222fn\documents\visual studio 2013\Projects\Rita\bin\Debug\Rita.pdb
+c:\users\sc222fn\documents\visual studio 2013\Projects\Rita\obj\Debug\Rita.csprojResolveAssemblyReference.cache
+c:\users\sc222fn\documents\visual studio 2013\Projects\Rita\obj\Debug\Rita.exe
+c:\users\sc222fn\documents\visual studio 2013\Projects\Rita\obj\Debug\Rita.pdb
